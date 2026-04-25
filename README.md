@@ -24,3 +24,6 @@ A centralized NetSuite dashboard for bulk-approving financial transactions, buil
 - **Tabulator.js** — interactive data table UI
 - **N/search** — transaction data retrieval
 - **N/workflow** — approval state transitions
+
+## Demo
+![Demo](ApprovalDashboard.gif)
